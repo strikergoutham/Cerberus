@@ -41,4 +41,3 @@ python3 cerberus.py -s "ssl:*.paypal.com org:paypal"
 #### Snapshot of test results:
 ![Cerberus](/ScreenShots/cerberus.PNG)
 
-##### Developed by: Goutham Madhwaraj
