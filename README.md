@@ -25,7 +25,7 @@ This is a quick hack script if you are someone who monitors for cloudassets of a
 ```bash
 pip3 install shodan
 
-pip install -U python-dotenv
+pip3 install -U python-dotenv
 ```
 ### update .env file with slack webhook url and shodan API token.
 
