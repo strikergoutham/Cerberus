@@ -1,7 +1,7 @@
 # Cerberus
 Cerberus is an auto monitoring script which monitors for any cloud assets of a company grouped via common ssl cert used, which might have been exposed over the internet.It uses Shodan API internally to monitor/query company infra.
 
-This is a quick hack script if you are someone who monitors for cloudassets of any company scraped by shodan and want to get notified via slack periodically.
+This is a quick hack script if you are someone who monitors for cloud assets of any company scraped by shodan and want to get notified via slack periodically.
 
 ## Features :
 
